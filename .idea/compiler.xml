@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kafka-clients" target="1.5" />
+      <module name="kafka-clients" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

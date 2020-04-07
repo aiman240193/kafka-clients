@@ -1,4 +1,4 @@
-package kafka_clients.test.JUnit5;
+package kafka_clients.JUnit5;
 
 /**
  * Copyright (c) 2017-2020, Salesforce.com, Inc.
