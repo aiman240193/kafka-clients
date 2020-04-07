@@ -1,4 +1,4 @@
-package kafka_clients.twitterClientKProducer.tests.JUnit5;
+package kafka_clients.tests.JUnit5;
 
 /**
  * Copyright (c) 2017-2020, Salesforce.com, Inc.
