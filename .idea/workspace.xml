@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f9a191e-c4ca-419a-b58e-ea6311d88293" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kafka-clients.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kafka-clients.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twitterClientKProducer/TwitterProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twitterClientKProducer/TwitterProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twitterClientKProducer/TwitterProducerService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twitterClientKProducer/TwitterProducerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twitterClientKProducer/tests/JUnit5/AbstractSharedKafkaTestResourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twitterClientKProducer/tests/JUnit5/SharedKafkaTestResourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twitterClientKProducer/tests/KafkaProducerTestSpring$TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twitterClientKProducer/tests/KafkaProducerTestSpring.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aChk6UB1k9mCn25l4i5rcp0o9g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scaricati/jackdaw-core-1.33.0-sources.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5712644" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="kafka_clients" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="twitterClientKProducer.tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.KafkaContainerTest.testUsage">
+    <configuration name="KafkaContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-clients" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka_clients.test.testcontainers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kafka_clients.test.testcontainers" />
+      <option name="MAIN_CLASS_NAME" value="kafka_clients.test.testcontainers.KafkaContainerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaContainerTest.testUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-clients" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka_clients.testcontainers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kafka_clients.testcontainers" />
+      <option name="MAIN_CLASS_NAME" value="kafka_clients.testcontainers.KafkaContainerTest" />
+      <option name="METHOD_NAME" value="testUsage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharedKafkaTestResourceTest.testProducerAndConsumer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-clients" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka_clients.tests.JUnit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kafka_clients.tests.JUnit5" />
+      <option name="MAIN_CLASS_NAME" value="kafka_clients.tests.JUnit5.SharedKafkaTestResourceTest" />
+      <option name="METHOD_NAME" value="testProducerAndConsumer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KafkaContainerTest.testUsage" />
+        <item itemvalue="JUnit.KafkaContainerTest" />
+        <item itemvalue="JUnit.SharedKafkaTestResourceTest.testProducerAndConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f9a191e-c4ca-419a-b58e-ea6311d88293" name="Default Changelist" comment="" />
+      <created>1586245622930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586245622930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="215" width="800" height="684" key="#Inspections" timestamp="1586255023110">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="215" width="800" height="684" key="#Inspections/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586255023110" />
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure" timestamp="1586259082611">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586259082611" />
+    <state x="671" y="358" width="637" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586255637779">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="671" y="358" width="637" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586255637779" />
+    <state x="700" y="223" width="585" height="675" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586260487619">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="700" y="223" width="585" height="675" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260487619" />
+    <state x="836" y="445" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586260613171">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="836" y="445" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260613171" />
+    <state x="592" y="481" width="1120" height="171" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586257141726">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="592" y="481" width="1120" height="171" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586257141726" />
+    <state x="741" y="435" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586257144646">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="741" y="435" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586257144646" />
+    <state x="617" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1586255174250">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="617" y="300" width="735" height="520" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586255174250" />
+    <state width="1804" height="293" key="GridCell.Tab.0.bottom" timestamp="1586260470352">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="293" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260470352" />
+    <state width="1804" height="293" key="GridCell.Tab.0.center" timestamp="1586260470352">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="293" key="GridCell.Tab.0.center/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260470352" />
+    <state width="1804" height="293" key="GridCell.Tab.0.left" timestamp="1586260470352">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="293" key="GridCell.Tab.0.left/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260470351" />
+    <state width="1804" height="293" key="GridCell.Tab.0.right" timestamp="1586260470352">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="293" key="GridCell.Tab.0.right/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586260470352" />
+    <state x="528" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1586259453608">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="528" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586259453608" />
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1586255195289">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586255195289" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586253154595">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586253154595" />
+    <state x="659" y="252" width="672" height="677" key="run.anything.popup" timestamp="1586256834819">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" width="672" height="677" key="run.anything.popup/70.27.1850.1053/1920.0.1366.768@70.27.1850.1053" timestamp="1586256834819" />
+  </component>
+</project>
